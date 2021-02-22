@@ -1,7 +1,4 @@
 <resources>
-    <string name="app_name">AudioRecorder</string>
-    <string name="sound_recorder">Sound Recorder</string>
-    <string name="start">Start</string>
-    <string name="pause">Pause</string>
-    <string name="stop">Stop</string>
+    <string name="app_name">SoundRecorder</string>
+    <string name="audio_recorder">Audio Recorder</string>
 </resources>
